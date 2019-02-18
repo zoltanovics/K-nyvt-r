@@ -1,10 +1,10 @@
 # Könyvtár
 
-Egy könyvtár rendszerét reprezentáló java program java db segítségével. 
--Lehet könyvet kölcsönözni és visszaadni 
--Könyvtári tagokat felvenni és törölni
--Könyvet zárolni és kinyitni(zárolt könyvet nem lehet kölcsönözni)
--Tagok adait módosítani
+Egy könyvtár rendszerét reprezentáló java program java db segítségével.
+-Lehet könyvet kölcsönözni és visszaadni <br />
+-Könyvtári tagokat felvenni és törölni <br />
+-Könyvet zárolni és kinyitni(zárolt könyvet nem lehet kölcsönözni) <br />
+-Tagok adait módosítani <br />
 
 # Adatbázis:
 
