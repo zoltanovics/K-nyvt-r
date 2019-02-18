@@ -1,0 +1,16 @@
+Tue May 09 21:15:22 CEST 2017 : Apache Derby Hálózati kiszolgáló - 10.10.2.0 - (1582446) elindult és kész a kapcsolatok fogadására a(z) {3} 1527 portján 
+----------------------------------------------------------------
+Tue May 09 21:15:26 CEST 2017:
+ Derby The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446) változat betöltése: a816c00e-015b-eea3-2adc-0000033bf297 példány
+a(z) C:\Users\leaderhun\Desktop\database_view\mozipenztar\db\db-derby-10.13.1.1-bin\db-derby-10.13.1.1-bin\contact adatbázis-könyvtáron: sun.misc.Launcher$AppClassLoader@6f94fa3e 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=C:\Users\leaderhun\Desktop\database_view\mozipenztar\db\glassfish-4.1.2\glassfish4\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\leaderhun\Desktop\database_view\mozipenztar\db\db-derby-10.13.1.1-bin\db-derby-10.13.1.1-bin
+Az adatbázis-osztálybetöltõ elindult - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 09 21:17:22 CEST 2017: Shutting down Derby engine
