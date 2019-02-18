@@ -1,0 +1,348 @@
+08-Nov-2018 00:01:00.873 INFO [http-nio-9000-exec-283] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 00:01:00.884 INFO [http-nio-9000-exec-283] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 00:01:02.525 INFO [http-nio-9000-exec-289] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 00:01:02.559 INFO [http-nio-9000-exec-289] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 00:01:03.319 INFO [http-nio-9000-exec-289] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 00:02:10.238 INFO [http-nio-9000-exec-286] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 00:02:10.245 INFO [http-nio-9000-exec-286] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 00:02:11.872 INFO [http-nio-9000-exec-291] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 00:02:11.899 INFO [http-nio-9000-exec-291] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 00:02:12.668 INFO [http-nio-9000-exec-291] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 00:10:27.878 INFO [http-nio-9000-exec-310] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 00:10:27.884 INFO [http-nio-9000-exec-310] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 00:10:29.534 INFO [http-nio-9000-exec-302] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 00:10:29.570 INFO [http-nio-9000-exec-302] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 00:10:30.334 INFO [http-nio-9000-exec-302] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 00:12:11.203 INFO [http-nio-9000-exec-311] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 00:12:11.212 INFO [http-nio-9000-exec-311] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 00:12:12.826 INFO [http-nio-9000-exec-309] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 00:12:12.857 INFO [http-nio-9000-exec-309] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 00:12:13.561 INFO [http-nio-9000-exec-309] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 00:13:35.313 INFO [http-nio-9000-exec-323] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 00:13:35.321 INFO [http-nio-9000-exec-323] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 00:13:36.957 INFO [http-nio-9000-exec-328] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 00:13:36.988 INFO [http-nio-9000-exec-328] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 00:13:37.731 INFO [http-nio-9000-exec-328] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:05:56.329 INFO [http-nio-9000-exec-335] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:05:56.396 INFO [http-nio-9000-exec-335] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 11:05:59.214 INFO [http-nio-9000-exec-330] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 11:05:59.246 INFO [http-nio-9000-exec-330] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 11:05:59.940 INFO [http-nio-9000-exec-330] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:13:56.440 INFO [http-nio-9000-exec-347] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:13:56.449 INFO [http-nio-9000-exec-347] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 11:13:58.484 INFO [http-nio-9000-exec-344] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 11:13:58.516 INFO [http-nio-9000-exec-344] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 11:13:59.331 INFO [http-nio-9000-exec-344] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:14:59.056 INFO [http-nio-9000-exec-346] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:14:59.064 INFO [http-nio-9000-exec-346] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 11:15:00.792 INFO [http-nio-9000-exec-350] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 11:15:00.821 INFO [http-nio-9000-exec-350] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 11:15:01.518 INFO [http-nio-9000-exec-350] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:36:27.583 INFO [http-nio-9000-exec-360] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:36:27.721 INFO [http-nio-9000-exec-360] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 11:36:30.112 INFO [http-nio-9000-exec-362] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 11:36:30.211 INFO [http-nio-9000-exec-362] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 11:36:31.322 INFO [http-nio-9000-exec-362] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:39:40.883 INFO [http-nio-9000-exec-375] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:39:40.897 INFO [http-nio-9000-exec-375] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 11:39:43.020 INFO [http-nio-9000-exec-370] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 11:39:43.052 INFO [http-nio-9000-exec-370] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 11:39:43.760 INFO [http-nio-9000-exec-370] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:39:52.040 SEVERE [http-nio-9000-exec-376] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/SzemleletGym] threw exception [An exception occurred processing [/jsp/lessons.jsp] at line [24]
+
+21:         <form:form id="reserveForm" modelAttribute="lessons" action="reserveprocess" method="post">
+22:         <label style="margin-right: 150px;">Lessons </label>
+23:         <select style="width: 250px;">
+24:             <form:option value="-1">Select lesson</form:option>
+25:         <%
+26:             try {
+27:                 String query="Select * from lessons";
+
+
+Stacktrace:] with root cause
+ java.lang.IllegalStateException: The 'option' tag can only be used inside a valid 'select' tag.
+	at org.springframework.web.util.TagUtils.assertHasAncestorOfType(TagUtils.java:132)
+	at org.springframework.web.servlet.tags.form.OptionTag.assertUnderSelectTag(OptionTag.java:230)
+	at org.springframework.web.servlet.tags.form.OptionTag.onWriteTagContent(OptionTag.java:159)
+	at org.springframework.web.servlet.tags.form.AbstractHtmlElementBodyTag.writeTagContent(AbstractHtmlElementBodyTag.java:45)
+	at org.springframework.web.servlet.tags.form.AbstractFormTag.doStartTagInternal(AbstractFormTag.java:84)
+	at org.springframework.web.servlet.tags.RequestContextAwareTag.doStartTag(RequestContextAwareTag.java:80)
+	at org.apache.jsp.jsp.lessons_jsp._jspService(lessons_jsp.java:192)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:444)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:494)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:412)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1385)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+08-Nov-2018 11:41:44.928 INFO [http-nio-9000-exec-378] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:41:44.938 INFO [http-nio-9000-exec-378] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 11:41:46.654 INFO [http-nio-9000-exec-386] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 11:41:46.687 INFO [http-nio-9000-exec-386] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 11:41:47.495 INFO [http-nio-9000-exec-386] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:41:57.674 SEVERE [http-nio-9000-exec-385] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/SzemleletGym] threw exception [An exception occurred processing [/jsp/lessons.jsp] at line [23]
+
+20:     <center>
+21:         <form:form id="reserveForm" modelAttribute="lessons" action="reserveprocess" method="post">
+22:         <label style="margin-right: 150px;">Lessons </label>
+23:         <form:select path="name" name="name" id="name" style="width: 250px;">
+24:             <form:option value="-1">Select lesson</form:option>
+25:         <%
+26:             try {
+
+
+Stacktrace:] with root cause
+ java.lang.IllegalStateException: Neither BindingResult nor plain target object for bean name 'lessons' available as request attribute
+	at org.springframework.web.servlet.support.BindStatus.<init>(BindStatus.java:144)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.getBindStatus(AbstractDataBoundFormElementTag.java:168)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.getPropertyPath(AbstractDataBoundFormElementTag.java:188)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.getName(AbstractDataBoundFormElementTag.java:154)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.writeDefaultAttributes(AbstractDataBoundFormElementTag.java:117)
+	at org.springframework.web.servlet.tags.form.AbstractHtmlElementTag.writeDefaultAttributes(AbstractHtmlElementTag.java:422)
+	at org.springframework.web.servlet.tags.form.SelectTag.writeTagContent(SelectTag.java:194)
+	at org.springframework.web.servlet.tags.form.AbstractFormTag.doStartTagInternal(AbstractFormTag.java:84)
+	at org.springframework.web.servlet.tags.RequestContextAwareTag.doStartTag(RequestContextAwareTag.java:80)
+	at org.apache.jsp.jsp.lessons_jsp._jspService(lessons_jsp.java:197)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:444)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:494)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:412)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1385)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+08-Nov-2018 11:49:13.996 INFO [http-nio-9000-exec-389] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:49:14.002 INFO [http-nio-9000-exec-389] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 11:49:15.651 INFO [http-nio-9000-exec-394] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 11:49:15.683 INFO [http-nio-9000-exec-394] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 11:49:16.539 INFO [http-nio-9000-exec-394] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:51:11.980 INFO [http-nio-9000-exec-398] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:51:11.988 INFO [http-nio-9000-exec-398] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 11:51:13.610 INFO [http-nio-9000-exec-392] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 11:51:13.646 INFO [http-nio-9000-exec-392] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 11:51:14.363 INFO [http-nio-9000-exec-392] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:51:53.411 INFO [http-nio-9000-exec-412] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:51:53.421 INFO [http-nio-9000-exec-412] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 11:51:55.176 INFO [http-nio-9000-exec-413] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 11:51:55.207 INFO [http-nio-9000-exec-413] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 11:51:56.051 INFO [http-nio-9000-exec-413] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:52:39.781 INFO [http-nio-9000-exec-422] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:52:39.790 INFO [http-nio-9000-exec-422] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 11:52:42.271 INFO [http-nio-9000-exec-423] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 11:52:42.299 INFO [http-nio-9000-exec-423] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 11:52:43.151 INFO [http-nio-9000-exec-423] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:54:26.244 INFO [http-nio-9000-exec-426] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:54:26.262 INFO [http-nio-9000-exec-426] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 11:54:27.920 INFO [http-nio-9000-exec-424] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 11:54:27.952 INFO [http-nio-9000-exec-424] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 11:54:28.746 INFO [http-nio-9000-exec-424] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:57:10.415 INFO [http-nio-9000-exec-439] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 11:57:10.437 INFO [http-nio-9000-exec-439] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 11:57:11.689 INFO [http-nio-9000-exec-439] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 11:57:11.718 INFO [http-nio-9000-exec-439] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 11:57:12.512 INFO [http-nio-9000-exec-439] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:00:54.734 INFO [http-nio-9000-exec-452] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:00:54.740 INFO [http-nio-9000-exec-452] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:00:56.673 INFO [http-nio-9000-exec-450] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:00:56.703 INFO [http-nio-9000-exec-450] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:00:57.517 INFO [http-nio-9000-exec-450] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:01:42.433 INFO [http-nio-9000-exec-456] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:01:42.443 INFO [http-nio-9000-exec-456] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:01:46.234 INFO [http-nio-9000-exec-459] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:01:46.263 INFO [http-nio-9000-exec-459] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:01:47.035 INFO [http-nio-9000-exec-459] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:04:40.370 INFO [http-nio-9000-exec-470] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:04:40.381 INFO [http-nio-9000-exec-470] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:04:42.123 INFO [http-nio-9000-exec-471] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:04:42.152 INFO [http-nio-9000-exec-471] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:04:42.837 INFO [http-nio-9000-exec-471] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:08:13.824 INFO [http-nio-9000-exec-476] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:08:13.832 INFO [http-nio-9000-exec-476] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:08:14.967 INFO [http-nio-9000-exec-476] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:08:14.996 INFO [http-nio-9000-exec-476] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:08:15.750 INFO [http-nio-9000-exec-476] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:08:33.367 INFO [http-nio-9000-exec-478] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:08:33.371 INFO [http-nio-9000-exec-478] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:08:34.872 INFO [http-nio-9000-exec-478] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:08:34.940 INFO [http-nio-9000-exec-478] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:08:36.200 INFO [http-nio-9000-exec-478] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:08:41.112 INFO [http-nio-9000-exec-484] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:08:41.116 INFO [http-nio-9000-exec-484] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:08:43.202 INFO [http-nio-9000-exec-473] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:08:43.228 INFO [http-nio-9000-exec-473] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:08:43.910 INFO [http-nio-9000-exec-473] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:08:53.455 SEVERE [http-nio-9000-exec-481] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring-mvc] in context with path [/SzemleletGym] threw exception [Request processing failed; nested exception is java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: <any>] with root cause
+ java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: <any>
+	at jbr.springmvc.dao.UserDaoImpl.reservePlace(UserDaoImpl.java:34)
+	at jbr.springmvc.service.UserServiceImpl.reservePlace(UserServiceImpl.java:21)
+	at jbr.springmvc.controller.LessonController.rerservePlace(LessonController.java:43)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.bind.annotation.support.HandlerMethodInvoker.invokeHandlerMethod(HandlerMethodInvoker.java:180)
+	at org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter.invokeHandlerMethod(AnnotationMethodHandlerAdapter.java:440)
+	at org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter.handle(AnnotationMethodHandlerAdapter.java:428)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:494)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:412)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1385)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+08-Nov-2018 12:10:14.260 INFO [http-nio-9000-exec-489] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:10:14.268 INFO [http-nio-9000-exec-489] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:10:15.408 INFO [http-nio-9000-exec-489] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:10:15.436 INFO [http-nio-9000-exec-489] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:10:16.133 INFO [http-nio-9000-exec-489] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:11:03.631 INFO [http-nio-9000-exec-490] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:11:03.646 INFO [http-nio-9000-exec-490] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:11:04.865 INFO [http-nio-9000-exec-490] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:11:04.898 INFO [http-nio-9000-exec-490] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:11:05.582 INFO [http-nio-9000-exec-490] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:11:43.067 INFO [http-nio-9000-exec-494] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:11:43.072 INFO [http-nio-9000-exec-494] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:11:44.386 INFO [http-nio-9000-exec-494] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:11:44.423 INFO [http-nio-9000-exec-494] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:11:45.330 INFO [http-nio-9000-exec-494] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:11:45.810 INFO [http-nio-9000-exec-491] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:11:45.814 INFO [http-nio-9000-exec-491] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:11:46.892 INFO [http-nio-9000-exec-491] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:11:46.922 INFO [http-nio-9000-exec-491] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:11:47.732 INFO [http-nio-9000-exec-491] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:13:35.647 INFO [http-nio-9000-exec-498] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:13:35.654 INFO [http-nio-9000-exec-498] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:13:37.101 INFO [http-nio-9000-exec-498] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:13:37.142 INFO [http-nio-9000-exec-498] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:13:38.445 INFO [http-nio-9000-exec-498] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:13:43.205 INFO [http-nio-9000-exec-504] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:13:43.209 INFO [http-nio-9000-exec-504] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:13:44.871 INFO [http-nio-9000-exec-488] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:13:44.900 INFO [http-nio-9000-exec-488] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:13:45.605 INFO [http-nio-9000-exec-488] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:15:25.961 INFO [http-nio-9000-exec-506] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:15:25.971 INFO [http-nio-9000-exec-506] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:15:27.743 INFO [http-nio-9000-exec-510] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:15:27.774 INFO [http-nio-9000-exec-510] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:15:28.514 INFO [http-nio-9000-exec-510] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:17:02.235 INFO [http-nio-9000-exec-516] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:17:02.245 INFO [http-nio-9000-exec-516] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:17:04.023 INFO [http-nio-9000-exec-520] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:17:04.058 INFO [http-nio-9000-exec-520] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:17:04.821 INFO [http-nio-9000-exec-520] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:17:09.310 INFO [http-nio-9000-exec-521] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:17:09.320 INFO [http-nio-9000-exec-521] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:17:11.287 INFO [http-nio-9000-exec-519] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:17:11.481 INFO [http-nio-9000-exec-519] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:17:12.349 INFO [http-nio-9000-exec-519] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:18:47.148 INFO [http-nio-9000-exec-533] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:18:47.160 INFO [http-nio-9000-exec-533] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:18:49.601 INFO [http-nio-9000-exec-535] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:18:49.671 INFO [http-nio-9000-exec-535] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:18:50.674 INFO [http-nio-9000-exec-535] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:18:59.556 INFO [http-nio-9000-exec-539] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:18:59.557 INFO [http-nio-9000-exec-539] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:19:01.396 INFO [http-nio-9000-exec-540] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:19:01.436 INFO [http-nio-9000-exec-540] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:19:02.385 INFO [http-nio-9000-exec-540] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:19:04.639 INFO [http-nio-9000-exec-518] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:19:04.651 INFO [http-nio-9000-exec-518] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:19:06.451 INFO [http-nio-9000-exec-542] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:19:06.487 INFO [http-nio-9000-exec-542] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:19:07.251 INFO [http-nio-9000-exec-542] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:29:12.710 INFO [http-nio-9000-exec-547] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:29:12.725 INFO [http-nio-9000-exec-547] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:29:14.606 INFO [http-nio-9000-exec-544] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:29:14.635 INFO [http-nio-9000-exec-544] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:29:15.314 INFO [http-nio-9000-exec-544] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:30:26.069 INFO [http-nio-9000-exec-553] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:30:26.091 INFO [http-nio-9000-exec-553] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:30:27.919 INFO [http-nio-9000-exec-562] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:30:27.961 INFO [http-nio-9000-exec-562] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:30:29.545 INFO [http-nio-9000-exec-562] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:31:42.814 INFO [http-nio-9000-exec-571] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:31:42.822 INFO [http-nio-9000-exec-571] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:31:44.774 INFO [http-nio-9000-exec-567] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:31:44.804 INFO [http-nio-9000-exec-567] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:31:45.501 INFO [http-nio-9000-exec-567] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:36:17.120 INFO [http-nio-9000-exec-576] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:36:17.128 INFO [http-nio-9000-exec-576] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:36:18.869 INFO [http-nio-9000-exec-580] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:36:18.901 INFO [http-nio-9000-exec-580] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:36:19.758 INFO [http-nio-9000-exec-580] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:38:19.849 INFO [http-nio-9000-exec-587] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:38:19.857 INFO [http-nio-9000-exec-587] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:38:21.729 INFO [http-nio-9000-exec-590] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:38:21.758 INFO [http-nio-9000-exec-590] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:38:22.447 INFO [http-nio-9000-exec-590] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:40:03.780 INFO [http-nio-9000-exec-598] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+08-Nov-2018 12:40:03.790 INFO [http-nio-9000-exec-598] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+08-Nov-2018 12:40:06.850 INFO [http-nio-9000-exec-597] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+08-Nov-2018 12:40:06.881 INFO [http-nio-9000-exec-597] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+08-Nov-2018 12:40:07.646 INFO [http-nio-9000-exec-597] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'

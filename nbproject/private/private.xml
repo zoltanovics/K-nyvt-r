@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/libs/apache-tomcat-9.0.8/conf/server.xml</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Member/MemberCacheImpl.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Copy/CopyCache.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Borrow/BorrowCache.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Common/ValidateType.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Common/Validator.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Borrow/BorrowCacheImpl.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Member/Member.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Konyvtar.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Member/Controller/MemberController.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Borrow/Exceptions/BorrowNotValidException.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Book/BookCache.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Member/Exceptions/MemberNotValidException.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Borrow/Controller/BorrowController.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Book/BookCacheImpl.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Member/Controller/MemberValidator.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Borrow/Controller/BorrowValidator.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Borrow/Borrow.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Copy/Copy.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Member/MemberCache.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Copy/CopyCacheImpl.java</file>
+            <file>file:/C:/Users/bzolt/Desktop/ELTE/Progtech2/Beadando/src/konyvtar/Book/Book.java</file>
+        </group>
+    </open-files>
+</project-private>

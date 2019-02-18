@@ -1,0 +1,699 @@
+20-Oct-2018 15:47:21.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.8
+20-Oct-2018 15:47:21.324 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 19:32:00 UTC
+20-Oct-2018 15:47:21.325 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.8.0
+20-Oct-2018 15:47:21.325 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+20-Oct-2018 15:47:21.325 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Oct-2018 15:47:21.325 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Oct-2018 15:47:21.325 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-10.0.2
+20-Oct-2018 15:47:21.325 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           10.0.2+13
+20-Oct-2018 15:47:21.325 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            "Oracle Corporation"
+20-Oct-2018 15:47:21.325 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8
+20-Oct-2018 15:47:21.325 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8
+20-Oct-2018 15:47:21.327 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-Oct-2018 15:47:21.327 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-Oct-2018 15:47:21.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-Oct-2018 15:47:21.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\logging.properties
+20-Oct-2018 15:47:21.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Oct-2018 15:47:21.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-23D7RA8
+20-Oct-2018 15:47:21.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Oct-2018 15:47:21.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Oct-2018 15:47:21.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+20-Oct-2018 15:47:21.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8
+20-Oct-2018 15:47:21.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8
+20-Oct-2018 15:47:21.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\temp
+20-Oct-2018 15:47:21.329 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+20-Oct-2018 15:47:21.329 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+20-Oct-2018 15:47:21.329 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+20-Oct-2018 15:47:22.019 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+20-Oct-2018 15:47:22.074 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9000"]
+20-Oct-2018 15:47:22.204 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+20-Oct-2018 15:47:22.209 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 15:47:22.212 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+20-Oct-2018 15:47:22.213 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1609 ms
+20-Oct-2018 15:47:22.306 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Oct-2018 15:47:22.306 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.8
+20-Oct-2018 15:47:22.317 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml]
+20-Oct-2018 15:47:22.339 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/SpringMvcUser] in deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml] has been ignored
+20-Oct-2018 15:47:23.823 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 15:47:24.156 INFO [main] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'spring-mvc': initialization started
+20-Oct-2018 15:47:24.207 INFO [main] org.springframework.web.context.support.XmlWebApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'spring-mvc-servlet': startup date [Sat Oct 20 15:47:24 CEST 2018]; root of context hierarchy
+20-Oct-2018 15:47:24.293 INFO [main] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-mvc-servlet.xml]
+20-Oct-2018 15:47:24.430 INFO [main] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from class path resource [jbr/config/user-beans.xml]
+20-Oct-2018 15:47:24.887 INFO [main] org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName Loaded JDBC driver: com.mysql.jdbc.Driver
+20-Oct-2018 15:47:25.145 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login] onto handler 'loginController'
+20-Oct-2018 15:47:25.146 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login.*] onto handler 'loginController'
+20-Oct-2018 15:47:25.146 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login/] onto handler 'loginController'
+20-Oct-2018 15:47:25.146 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess] onto handler 'loginController'
+20-Oct-2018 15:47:25.146 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess.*] onto handler 'loginController'
+20-Oct-2018 15:47:25.146 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess/] onto handler 'loginController'
+20-Oct-2018 15:47:25.147 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess] onto handler 'registrationController'
+20-Oct-2018 15:47:25.147 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess.*] onto handler 'registrationController'
+20-Oct-2018 15:47:25.147 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess/] onto handler 'registrationController'
+20-Oct-2018 15:47:25.147 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register] onto handler 'registrationController'
+20-Oct-2018 15:47:25.148 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register.*] onto handler 'registrationController'
+20-Oct-2018 15:47:25.148 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register/] onto handler 'registrationController'
+20-Oct-2018 15:47:25.340 INFO [main] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'spring-mvc': initialization completed in 1184 ms
+20-Oct-2018 15:47:25.355 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml] has finished in [3,035] ms
+20-Oct-2018 15:47:25.355 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\WashingMachine.xml]
+20-Oct-2018 15:47:25.374 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WashingMachine] in deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\WashingMachine.xml] has been ignored
+20-Oct-2018 15:47:25.380 SEVERE [main] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+ org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@6e017950]
+	at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:441)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4742)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4877)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:742)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:718)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:703)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:630)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1840)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+	at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:525)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:424)
+	at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1585)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:308)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+	at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:424)
+	at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:367)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:966)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:839)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1427)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1417)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:943)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:258)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:422)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:770)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:682)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:350)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\bzolt\Desktop\Alkfejl\elte\2018-19-1\af-7\rest-api\WashingMachine\target\WashingMachine-0.0.1-SNAPSHOT] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	... 41 more
+
+20-Oct-2018 15:47:25.403 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\WashingMachine.xml]
+ java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@6e017950]
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:746)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:718)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:703)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:630)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1840)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+	at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:525)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:424)
+	at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1585)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:308)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+	at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:424)
+	at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:367)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:966)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:839)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1427)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1417)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:943)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:258)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:422)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:770)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:682)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:350)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+
+20-Oct-2018 15:47:25.413 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\WashingMachine.xml] has finished in [58] ms
+20-Oct-2018 15:47:25.416 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\docs]
+20-Oct-2018 15:47:25.500 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\docs] has finished in [84] ms
+20-Oct-2018 15:47:25.749 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\examples]
+20-Oct-2018 15:47:26.968 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\examples] has finished in [1,219] ms
+20-Oct-2018 15:47:26.968 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\host-manager]
+20-Oct-2018 15:47:27.014 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\host-manager] has finished in [46] ms
+20-Oct-2018 15:47:27.017 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\manager]
+20-Oct-2018 15:47:27.076 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\manager] has finished in [60] ms
+20-Oct-2018 15:47:27.080 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9000"]
+20-Oct-2018 15:47:27.093 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 15:47:27.096 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 4883 ms
+20-Oct-2018 15:47:30.217 INFO [http-nio-9000-exec-7] org.springframework.web.context.support.XmlWebApplicationContext.doClose Closing WebApplicationContext for namespace 'spring-mvc-servlet': startup date [Sat Oct 20 15:47:24 CEST 2018]; root of context hierarchy
+20-Oct-2018 15:47:30.236 WARNING [http-nio-9000-exec-7] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [SpringMvcUser] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 15:47:30.237 WARNING [http-nio-9000-exec-7] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [SpringMvcUser] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@10.0.2/java.lang.Object.wait(Native Method)
+ java.base@10.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:151)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:70)
+ java.base@10.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+ java.base@10.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@10.0.2/java.lang.Thread.run(Thread.java:844)
+20-Oct-2018 15:47:30.752 INFO [http-nio-9000-exec-7] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/SpringMvcUser]
+20-Oct-2018 15:47:30.877 INFO [http-nio-9000-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml]
+20-Oct-2018 15:47:30.879 WARNING [http-nio-9000-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/SpringMvcUser] in deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml] has been ignored
+20-Oct-2018 15:47:32.172 INFO [http-nio-9000-exec-10] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'spring-mvc': initialization started
+20-Oct-2018 15:47:32.204 INFO [http-nio-9000-exec-10] org.springframework.web.context.support.XmlWebApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'spring-mvc-servlet': startup date [Sat Oct 20 15:47:32 CEST 2018]; root of context hierarchy
+20-Oct-2018 15:47:32.264 INFO [http-nio-9000-exec-10] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-mvc-servlet.xml]
+20-Oct-2018 15:47:32.309 INFO [http-nio-9000-exec-10] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from class path resource [jbr/config/user-beans.xml]
+20-Oct-2018 15:47:32.705 INFO [http-nio-9000-exec-10] org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName Loaded JDBC driver: com.mysql.jdbc.Driver
+20-Oct-2018 15:47:32.901 INFO [http-nio-9000-exec-10] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login] onto handler 'loginController'
+20-Oct-2018 15:47:32.902 INFO [http-nio-9000-exec-10] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login.*] onto handler 'loginController'
+20-Oct-2018 15:47:32.902 INFO [http-nio-9000-exec-10] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login/] onto handler 'loginController'
+20-Oct-2018 15:47:32.903 INFO [http-nio-9000-exec-10] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess] onto handler 'loginController'
+20-Oct-2018 15:47:32.903 INFO [http-nio-9000-exec-10] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess.*] onto handler 'loginController'
+20-Oct-2018 15:47:32.903 INFO [http-nio-9000-exec-10] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess/] onto handler 'loginController'
+20-Oct-2018 15:47:32.904 INFO [http-nio-9000-exec-10] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess] onto handler 'registrationController'
+20-Oct-2018 15:47:32.904 INFO [http-nio-9000-exec-10] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess.*] onto handler 'registrationController'
+20-Oct-2018 15:47:32.904 INFO [http-nio-9000-exec-10] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess/] onto handler 'registrationController'
+20-Oct-2018 15:47:32.904 INFO [http-nio-9000-exec-10] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register] onto handler 'registrationController'
+20-Oct-2018 15:47:32.904 INFO [http-nio-9000-exec-10] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register.*] onto handler 'registrationController'
+20-Oct-2018 15:47:32.905 INFO [http-nio-9000-exec-10] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register/] onto handler 'registrationController'
+20-Oct-2018 15:47:33.096 INFO [http-nio-9000-exec-10] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'spring-mvc': initialization completed in 923 ms
+20-Oct-2018 15:47:33.099 INFO [http-nio-9000-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml] has finished in [2,222] ms
+20-Oct-2018 15:47:33.104 INFO [http-nio-9000-exec-2] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SpringMvcUser]] after start() had already been called. The second call will be ignored.
+20-Oct-2018 15:47:34.891 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1312)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:989)
+	at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:96)
+	at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:69)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+20-Oct-2018 15:53:29.726 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+20-Oct-2018 15:53:29.727 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9000"]
+20-Oct-2018 15:53:29.837 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 15:53:29.956 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Oct-2018 15:53:29.965 INFO [main] org.springframework.web.context.support.XmlWebApplicationContext.doClose Closing WebApplicationContext for namespace 'spring-mvc-servlet': startup date [Sat Oct 20 15:47:32 CEST 2018]; root of context hierarchy
+20-Oct-2018 15:53:29.975 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [SpringMvcUser] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 15:53:29.976 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [SpringMvcUser] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@10.0.2/java.lang.Object.wait(Native Method)
+ java.base@10.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:151)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:70)
+ java.base@10.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+ java.base@10.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@10.0.2/java.lang.Thread.run(Thread.java:844)
+20-Oct-2018 15:53:29.997 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9000"]
+20-Oct-2018 15:53:30.000 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 15:53:30.002 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9000"]
+20-Oct-2018 15:53:30.003 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 15:55:29.707 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.8
+20-Oct-2018 15:55:29.709 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 19:32:00 UTC
+20-Oct-2018 15:55:29.709 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.8.0
+20-Oct-2018 15:55:29.709 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+20-Oct-2018 15:55:29.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Oct-2018 15:55:29.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Oct-2018 15:55:29.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\Program Files\Java\jdk1.8.0_181\jre
+20-Oct-2018 15:55:29.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_181-b13
+20-Oct-2018 15:55:29.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-Oct-2018 15:55:29.711 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8
+20-Oct-2018 15:55:29.711 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8
+20-Oct-2018 15:55:29.711 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\logging.properties
+20-Oct-2018 15:55:29.712 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Oct-2018 15:55:29.712 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-23D7RA8
+20-Oct-2018 15:55:29.712 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Oct-2018 15:55:29.712 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Oct-2018 15:55:29.712 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+20-Oct-2018 15:55:29.713 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8
+20-Oct-2018 15:55:29.713 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8
+20-Oct-2018 15:55:29.713 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\temp
+20-Oct-2018 15:55:29.713 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+20-Oct-2018 15:55:29.713 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+20-Oct-2018 15:55:29.713 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+20-Oct-2018 15:55:30.513 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+20-Oct-2018 15:55:31.130 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9000"]
+20-Oct-2018 15:55:31.284 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+20-Oct-2018 15:55:31.295 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 15:55:31.298 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+20-Oct-2018 15:55:31.298 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2244 ms
+20-Oct-2018 15:55:31.351 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Oct-2018 15:55:31.351 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.8
+20-Oct-2018 15:55:31.362 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml]
+20-Oct-2018 15:55:31.389 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/SpringMvcUser] in deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml] has been ignored
+20-Oct-2018 15:55:33.028 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 15:55:33.332 INFO [main] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'spring-mvc': initialization started
+20-Oct-2018 15:55:33.381 INFO [main] org.springframework.web.context.support.XmlWebApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'spring-mvc-servlet': startup date [Sat Oct 20 15:55:33 CEST 2018]; root of context hierarchy
+20-Oct-2018 15:55:33.473 INFO [main] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-mvc-servlet.xml]
+20-Oct-2018 15:55:33.851 INFO [main] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from class path resource [jbr/config/user-beans.xml]
+20-Oct-2018 15:55:34.448 INFO [main] org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName Loaded JDBC driver: com.mysql.jdbc.Driver
+20-Oct-2018 15:55:34.664 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess] onto handler 'loginController'
+20-Oct-2018 15:55:34.664 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess.*] onto handler 'loginController'
+20-Oct-2018 15:55:34.665 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess/] onto handler 'loginController'
+20-Oct-2018 15:55:34.666 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login] onto handler 'loginController'
+20-Oct-2018 15:55:34.666 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login.*] onto handler 'loginController'
+20-Oct-2018 15:55:34.666 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login/] onto handler 'loginController'
+20-Oct-2018 15:55:34.668 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess] onto handler 'registrationController'
+20-Oct-2018 15:55:34.668 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess.*] onto handler 'registrationController'
+20-Oct-2018 15:55:34.669 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess/] onto handler 'registrationController'
+20-Oct-2018 15:55:34.669 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register] onto handler 'registrationController'
+20-Oct-2018 15:55:34.669 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register.*] onto handler 'registrationController'
+20-Oct-2018 15:55:34.669 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register/] onto handler 'registrationController'
+20-Oct-2018 15:55:34.819 INFO [main] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'spring-mvc': initialization completed in 1486 ms
+20-Oct-2018 15:55:34.834 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml] has finished in [3,467] ms
+20-Oct-2018 15:55:34.834 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\WashingMachine.xml]
+20-Oct-2018 15:55:34.835 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WashingMachine] in deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\WashingMachine.xml] has been ignored
+20-Oct-2018 15:55:34.838 SEVERE [main] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+ org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@7d25913]
+	at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:441)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4742)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4877)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:742)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:718)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:703)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:630)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1840)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:112)
+	at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:525)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:424)
+	at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1585)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:308)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+	at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:424)
+	at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:367)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:966)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:839)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1427)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1417)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:943)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:258)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:422)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:770)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:682)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:350)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\bzolt\Desktop\Alkfejl\elte\2018-19-1\af-7\rest-api\WashingMachine\target\WashingMachine-0.0.1-SNAPSHOT] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	... 41 more
+
+20-Oct-2018 15:55:34.856 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\WashingMachine.xml]
+ java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@7d25913]
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:746)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:718)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:703)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:630)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1840)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:112)
+	at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:525)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:424)
+	at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1585)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:308)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+	at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:424)
+	at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:367)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:966)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:839)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1427)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1417)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:943)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:258)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:422)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:770)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:682)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:350)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+
+20-Oct-2018 15:55:34.857 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\WashingMachine.xml] has finished in [22] ms
+20-Oct-2018 15:55:34.857 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\docs]
+20-Oct-2018 15:55:34.888 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\docs] has finished in [31] ms
+20-Oct-2018 15:55:34.888 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\examples]
+20-Oct-2018 15:55:35.445 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\examples] has finished in [555] ms
+20-Oct-2018 15:55:35.446 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\host-manager]
+20-Oct-2018 15:55:35.515 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\host-manager] has finished in [70] ms
+20-Oct-2018 15:55:35.516 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\manager]
+20-Oct-2018 15:55:35.555 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\manager] has finished in [38] ms
+20-Oct-2018 15:55:35.557 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9000"]
+20-Oct-2018 15:55:35.574 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 15:55:35.577 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 4279 ms
+20-Oct-2018 15:56:19.577 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+20-Oct-2018 15:56:19.578 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9000"]
+20-Oct-2018 15:56:19.705 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 15:56:19.790 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Oct-2018 15:56:19.797 INFO [main] org.springframework.web.context.support.XmlWebApplicationContext.doClose Closing WebApplicationContext for namespace 'spring-mvc-servlet': startup date [Sat Oct 20 15:55:33 CEST 2018]; root of context hierarchy
+20-Oct-2018 15:56:19.852 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [SpringMvcUser] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 15:56:19.854 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [SpringMvcUser] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:70)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+20-Oct-2018 15:56:19.927 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9000"]
+20-Oct-2018 15:56:19.929 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 15:56:19.943 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9000"]
+20-Oct-2018 15:56:19.945 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 16:06:36.250 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.8
+20-Oct-2018 16:06:36.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 19:32:00 UTC
+20-Oct-2018 16:06:36.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.8.0
+20-Oct-2018 16:06:36.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+20-Oct-2018 16:06:36.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Oct-2018 16:06:36.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Oct-2018 16:06:36.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\Program Files\Java\jdk1.8.0_181\jre
+20-Oct-2018 16:06:36.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_181-b13
+20-Oct-2018 16:06:36.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-Oct-2018 16:06:36.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8
+20-Oct-2018 16:06:36.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8
+20-Oct-2018 16:06:36.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\logging.properties
+20-Oct-2018 16:06:36.253 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Oct-2018 16:06:36.253 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-23D7RA8
+20-Oct-2018 16:06:36.253 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Oct-2018 16:06:36.253 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Oct-2018 16:06:36.253 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+20-Oct-2018 16:06:36.254 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8
+20-Oct-2018 16:06:36.254 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8
+20-Oct-2018 16:06:36.254 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\temp
+20-Oct-2018 16:06:36.254 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+20-Oct-2018 16:06:36.254 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+20-Oct-2018 16:06:36.254 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+20-Oct-2018 16:06:36.978 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+20-Oct-2018 16:06:37.090 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9000"]
+20-Oct-2018 16:06:37.185 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+20-Oct-2018 16:06:37.194 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 16:06:37.197 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+20-Oct-2018 16:06:37.197 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1246 ms
+20-Oct-2018 16:06:37.239 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Oct-2018 16:06:37.239 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.8
+20-Oct-2018 16:06:37.250 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml]
+20-Oct-2018 16:06:37.272 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/SpringMvcUser] in deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml] has been ignored
+20-Oct-2018 16:06:38.639 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Oct-2018 16:06:38.843 INFO [main] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'spring-mvc': initialization started
+20-Oct-2018 16:06:38.899 INFO [main] org.springframework.web.context.support.XmlWebApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'spring-mvc-servlet': startup date [Sat Oct 20 16:06:38 CEST 2018]; root of context hierarchy
+20-Oct-2018 16:06:38.969 INFO [main] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-mvc-servlet.xml]
+20-Oct-2018 16:06:39.214 INFO [main] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from class path resource [jbr/config/user-beans.xml]
+20-Oct-2018 16:06:39.655 INFO [main] org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName Loaded JDBC driver: com.mysql.jdbc.Driver
+20-Oct-2018 16:06:39.830 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess] onto handler 'loginController'
+20-Oct-2018 16:06:39.830 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess.*] onto handler 'loginController'
+20-Oct-2018 16:06:39.831 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess/] onto handler 'loginController'
+20-Oct-2018 16:06:39.831 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login] onto handler 'loginController'
+20-Oct-2018 16:06:39.831 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login.*] onto handler 'loginController'
+20-Oct-2018 16:06:39.831 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login/] onto handler 'loginController'
+20-Oct-2018 16:06:39.832 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess] onto handler 'registrationController'
+20-Oct-2018 16:06:39.832 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess.*] onto handler 'registrationController'
+20-Oct-2018 16:06:39.832 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess/] onto handler 'registrationController'
+20-Oct-2018 16:06:39.832 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register] onto handler 'registrationController'
+20-Oct-2018 16:06:39.833 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register.*] onto handler 'registrationController'
+20-Oct-2018 16:06:39.833 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register/] onto handler 'registrationController'
+20-Oct-2018 16:06:39.975 INFO [main] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'spring-mvc': initialization completed in 1132 ms
+20-Oct-2018 16:06:39.984 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml] has finished in [2,733] ms
+20-Oct-2018 16:06:39.984 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\WashingMachine.xml]
+20-Oct-2018 16:06:39.984 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WashingMachine] in deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\WashingMachine.xml] has been ignored
+20-Oct-2018 16:06:39.988 SEVERE [main] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+ org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@2baf72d5]
+	at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:441)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4742)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4877)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:742)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:718)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:703)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:630)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1840)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:112)
+	at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:525)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:424)
+	at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1585)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:308)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+	at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:424)
+	at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:367)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:966)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:839)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1427)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1417)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:943)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:258)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:422)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:770)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:682)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:350)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\bzolt\Desktop\Alkfejl\elte\2018-19-1\af-7\rest-api\WashingMachine\target\WashingMachine-0.0.1-SNAPSHOT] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	... 41 more
+
+20-Oct-2018 16:06:40.011 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\WashingMachine.xml]
+ java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@2baf72d5]
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:746)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:718)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:703)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:630)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1840)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:112)
+	at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:525)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:424)
+	at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1585)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:308)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+	at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:424)
+	at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:367)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:966)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:839)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1427)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1417)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:943)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:258)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:422)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:770)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:682)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:350)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+
+20-Oct-2018 16:06:40.013 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\WashingMachine.xml] has finished in [28] ms
+20-Oct-2018 16:06:40.014 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\docs]
+20-Oct-2018 16:06:40.051 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\docs] has finished in [37] ms
+20-Oct-2018 16:06:40.075 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\examples]
+20-Oct-2018 16:06:40.448 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\examples] has finished in [373] ms
+20-Oct-2018 16:06:40.448 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\host-manager]
+20-Oct-2018 16:06:40.500 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\host-manager] has finished in [52] ms
+20-Oct-2018 16:06:40.501 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\manager]
+20-Oct-2018 16:06:40.536 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\webapps\manager] has finished in [34] ms
+20-Oct-2018 16:06:40.538 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9000"]
+20-Oct-2018 16:06:40.548 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 16:06:40.551 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 3353 ms
+20-Oct-2018 16:08:05.122 INFO [http-nio-9000-exec-1] org.springframework.web.context.support.XmlWebApplicationContext.doClose Closing WebApplicationContext for namespace 'spring-mvc-servlet': startup date [Sat Oct 20 16:06:38 CEST 2018]; root of context hierarchy
+20-Oct-2018 16:08:05.131 WARNING [http-nio-9000-exec-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [SpringMvcUser] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 16:08:05.131 WARNING [http-nio-9000-exec-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [SpringMvcUser] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:70)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+20-Oct-2018 16:08:05.637 INFO [http-nio-9000-exec-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/SpringMvcUser]
+20-Oct-2018 16:08:05.673 INFO [http-nio-9000-exec-4] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml]
+20-Oct-2018 16:08:05.674 WARNING [http-nio-9000-exec-4] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/SpringMvcUser] in deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml] has been ignored
+20-Oct-2018 16:08:06.946 INFO [http-nio-9000-exec-4] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'spring-mvc': initialization started
+20-Oct-2018 16:08:06.983 INFO [http-nio-9000-exec-4] org.springframework.web.context.support.XmlWebApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'spring-mvc-servlet': startup date [Sat Oct 20 16:08:06 CEST 2018]; root of context hierarchy
+20-Oct-2018 16:08:07.044 INFO [http-nio-9000-exec-4] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-mvc-servlet.xml]
+20-Oct-2018 16:08:07.096 INFO [http-nio-9000-exec-4] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from class path resource [jbr/config/user-beans.xml]
+20-Oct-2018 16:08:07.590 INFO [http-nio-9000-exec-4] org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName Loaded JDBC driver: com.mysql.jdbc.Driver
+20-Oct-2018 16:08:07.758 INFO [http-nio-9000-exec-4] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess] onto handler 'loginController'
+20-Oct-2018 16:08:07.758 INFO [http-nio-9000-exec-4] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess.*] onto handler 'loginController'
+20-Oct-2018 16:08:07.759 INFO [http-nio-9000-exec-4] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess/] onto handler 'loginController'
+20-Oct-2018 16:08:07.759 INFO [http-nio-9000-exec-4] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login] onto handler 'loginController'
+20-Oct-2018 16:08:07.759 INFO [http-nio-9000-exec-4] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login.*] onto handler 'loginController'
+20-Oct-2018 16:08:07.759 INFO [http-nio-9000-exec-4] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login/] onto handler 'loginController'
+20-Oct-2018 16:08:07.760 INFO [http-nio-9000-exec-4] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess] onto handler 'registrationController'
+20-Oct-2018 16:08:07.760 INFO [http-nio-9000-exec-4] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess.*] onto handler 'registrationController'
+20-Oct-2018 16:08:07.760 INFO [http-nio-9000-exec-4] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess/] onto handler 'registrationController'
+20-Oct-2018 16:08:07.761 INFO [http-nio-9000-exec-4] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register] onto handler 'registrationController'
+20-Oct-2018 16:08:07.761 INFO [http-nio-9000-exec-4] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register.*] onto handler 'registrationController'
+20-Oct-2018 16:08:07.761 INFO [http-nio-9000-exec-4] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register/] onto handler 'registrationController'
+20-Oct-2018 16:08:07.885 INFO [http-nio-9000-exec-4] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'spring-mvc': initialization completed in 939 ms
+20-Oct-2018 16:08:07.887 INFO [http-nio-9000-exec-4] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml] has finished in [2,215] ms
+20-Oct-2018 16:08:07.893 INFO [http-nio-9000-exec-5] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SpringMvcUser]] after start() had already been called. The second call will be ignored.
+20-Oct-2018 16:08:09.675 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1312)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:989)
+	at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:96)
+	at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:69)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+20-Oct-2018 16:09:08.232 INFO [http-nio-9000-exec-8] org.springframework.web.context.support.XmlWebApplicationContext.doClose Closing WebApplicationContext for namespace 'spring-mvc-servlet': startup date [Sat Oct 20 16:08:06 CEST 2018]; root of context hierarchy
+20-Oct-2018 16:09:08.235 WARNING [http-nio-9000-exec-8] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [SpringMvcUser] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 16:09:08.236 WARNING [http-nio-9000-exec-8] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [SpringMvcUser] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:70)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+20-Oct-2018 16:09:08.744 INFO [http-nio-9000-exec-8] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/SpringMvcUser]
+20-Oct-2018 16:09:08.763 INFO [http-nio-9000-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml]
+20-Oct-2018 16:09:08.764 WARNING [http-nio-9000-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/SpringMvcUser] in deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml] has been ignored
+20-Oct-2018 16:09:09.910 INFO [http-nio-9000-exec-6] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'spring-mvc': initialization started
+20-Oct-2018 16:09:09.948 INFO [http-nio-9000-exec-6] org.springframework.web.context.support.XmlWebApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'spring-mvc-servlet': startup date [Sat Oct 20 16:09:09 CEST 2018]; root of context hierarchy
+20-Oct-2018 16:09:10.003 INFO [http-nio-9000-exec-6] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-mvc-servlet.xml]
+20-Oct-2018 16:09:10.033 INFO [http-nio-9000-exec-6] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from class path resource [jbr/config/user-beans.xml]
+20-Oct-2018 16:09:10.350 INFO [http-nio-9000-exec-6] org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName Loaded JDBC driver: com.mysql.jdbc.Driver
+20-Oct-2018 16:09:10.508 INFO [http-nio-9000-exec-6] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess] onto handler 'loginController'
+20-Oct-2018 16:09:10.508 INFO [http-nio-9000-exec-6] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess.*] onto handler 'loginController'
+20-Oct-2018 16:09:10.508 INFO [http-nio-9000-exec-6] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess/] onto handler 'loginController'
+20-Oct-2018 16:09:10.509 INFO [http-nio-9000-exec-6] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login] onto handler 'loginController'
+20-Oct-2018 16:09:10.509 INFO [http-nio-9000-exec-6] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login.*] onto handler 'loginController'
+20-Oct-2018 16:09:10.510 INFO [http-nio-9000-exec-6] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login/] onto handler 'loginController'
+20-Oct-2018 16:09:10.511 INFO [http-nio-9000-exec-6] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess] onto handler 'registrationController'
+20-Oct-2018 16:09:10.511 INFO [http-nio-9000-exec-6] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess.*] onto handler 'registrationController'
+20-Oct-2018 16:09:10.511 INFO [http-nio-9000-exec-6] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess/] onto handler 'registrationController'
+20-Oct-2018 16:09:10.512 INFO [http-nio-9000-exec-6] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register] onto handler 'registrationController'
+20-Oct-2018 16:09:10.512 INFO [http-nio-9000-exec-6] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register.*] onto handler 'registrationController'
+20-Oct-2018 16:09:10.512 INFO [http-nio-9000-exec-6] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register/] onto handler 'registrationController'
+20-Oct-2018 16:09:10.705 INFO [http-nio-9000-exec-6] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'spring-mvc': initialization completed in 795 ms
+20-Oct-2018 16:09:10.709 INFO [http-nio-9000-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml] has finished in [1,946] ms
+20-Oct-2018 16:09:10.717 INFO [http-nio-9000-exec-14] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SpringMvcUser]] after start() had already been called. The second call will be ignored.
+20-Oct-2018 16:09:12.605 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1312)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:989)
+	at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:96)
+	at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:69)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+20-Oct-2018 16:22:15.529 INFO [http-nio-9000-exec-23] org.springframework.web.context.support.XmlWebApplicationContext.doClose Closing WebApplicationContext for namespace 'spring-mvc-servlet': startup date [Sat Oct 20 16:09:09 CEST 2018]; root of context hierarchy
+20-Oct-2018 16:22:15.539 WARNING [http-nio-9000-exec-23] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [SpringMvcUser] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 16:22:15.540 WARNING [http-nio-9000-exec-23] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [SpringMvcUser] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:70)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+20-Oct-2018 16:22:16.044 INFO [http-nio-9000-exec-23] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/SpringMvcUser]
+20-Oct-2018 16:22:16.065 INFO [http-nio-9000-exec-21] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml]
+20-Oct-2018 16:22:16.066 WARNING [http-nio-9000-exec-21] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/SpringMvcUser] in deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml] has been ignored
+20-Oct-2018 16:22:17.276 INFO [http-nio-9000-exec-21] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'spring-mvc': initialization started
+20-Oct-2018 16:22:17.311 INFO [http-nio-9000-exec-21] org.springframework.web.context.support.XmlWebApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'spring-mvc-servlet': startup date [Sat Oct 20 16:22:17 CEST 2018]; root of context hierarchy
+20-Oct-2018 16:22:17.375 INFO [http-nio-9000-exec-21] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-mvc-servlet.xml]
+20-Oct-2018 16:22:17.414 INFO [http-nio-9000-exec-21] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from class path resource [jbr/config/user-beans.xml]
+20-Oct-2018 16:22:17.708 INFO [http-nio-9000-exec-21] org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName Loaded JDBC driver: com.mysql.jdbc.Driver
+20-Oct-2018 16:22:17.863 INFO [http-nio-9000-exec-21] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess] onto handler 'loginController'
+20-Oct-2018 16:22:17.863 INFO [http-nio-9000-exec-21] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess.*] onto handler 'loginController'
+20-Oct-2018 16:22:17.863 INFO [http-nio-9000-exec-21] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/loginProcess/] onto handler 'loginController'
+20-Oct-2018 16:22:17.863 INFO [http-nio-9000-exec-21] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login] onto handler 'loginController'
+20-Oct-2018 16:22:17.863 INFO [http-nio-9000-exec-21] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login.*] onto handler 'loginController'
+20-Oct-2018 16:22:17.864 INFO [http-nio-9000-exec-21] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/login/] onto handler 'loginController'
+20-Oct-2018 16:22:17.864 INFO [http-nio-9000-exec-21] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess] onto handler 'registrationController'
+20-Oct-2018 16:22:17.864 INFO [http-nio-9000-exec-21] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess.*] onto handler 'registrationController'
+20-Oct-2018 16:22:17.864 INFO [http-nio-9000-exec-21] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/registerProcess/] onto handler 'registrationController'
+20-Oct-2018 16:22:17.864 INFO [http-nio-9000-exec-21] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register] onto handler 'registrationController'
+20-Oct-2018 16:22:17.865 INFO [http-nio-9000-exec-21] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register.*] onto handler 'registrationController'
+20-Oct-2018 16:22:17.865 INFO [http-nio-9000-exec-21] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/register/] onto handler 'registrationController'
+20-Oct-2018 16:22:17.972 INFO [http-nio-9000-exec-21] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'spring-mvc': initialization completed in 696 ms
+20-Oct-2018 16:22:17.976 INFO [http-nio-9000-exec-21] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\bzolt\Desktop\ELTE\Progtech2\Beadando\libs\apache-tomcat-9.0.8\conf\Catalina\localhost\SpringMvcUser.xml] has finished in [1,910] ms
+20-Oct-2018 16:22:17.980 INFO [http-nio-9000-exec-18] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SpringMvcUser]] after start() had already been called. The second call will be ignored.
+20-Oct-2018 16:22:20.540 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1312)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:989)
+	at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:96)
+	at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:69)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+20-Oct-2018 16:41:18.905 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+20-Oct-2018 16:41:18.905 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9000"]
+20-Oct-2018 16:41:18.970 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 16:41:19.089 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Oct-2018 16:41:19.096 INFO [main] org.springframework.web.context.support.XmlWebApplicationContext.doClose Closing WebApplicationContext for namespace 'spring-mvc-servlet': startup date [Sat Oct 20 16:22:17 CEST 2018]; root of context hierarchy
+20-Oct-2018 16:41:19.104 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [SpringMvcUser] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Oct-2018 16:41:19.104 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [SpringMvcUser] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:70)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+20-Oct-2018 16:41:19.115 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9000"]
+20-Oct-2018 16:41:19.117 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+20-Oct-2018 16:41:19.119 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9000"]
+20-Oct-2018 16:41:19.120 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

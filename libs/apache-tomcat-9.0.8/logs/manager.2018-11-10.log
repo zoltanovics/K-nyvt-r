@@ -1,0 +1,858 @@
+10-Nov-2018 15:14:25.694 INFO [http-nio-9000-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+10-Nov-2018 15:14:25.694 INFO [http-nio-9000-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+10-Nov-2018 15:14:25.931 INFO [http-nio-9000-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:14:25.937 INFO [http-nio-9000-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:14:25.949 INFO [http-nio-9000-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 15:14:26.644 INFO [http-nio-9000-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context806456438772942468.xml'
+10-Nov-2018 15:14:29.853 INFO [http-nio-9000-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 15:15:44.761 INFO [http-nio-9000-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:15:44.766 INFO [http-nio-9000-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:15:44.777 INFO [http-nio-9000-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 15:15:45.358 INFO [http-nio-9000-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context7958214954033646455.xml'
+10-Nov-2018 15:15:47.718 INFO [http-nio-9000-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 15:17:06.142 INFO [http-nio-9000-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+10-Nov-2018 15:17:06.143 INFO [http-nio-9000-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+10-Nov-2018 15:17:07.764 INFO [http-nio-9000-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:17:07.767 INFO [http-nio-9000-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:17:07.775 INFO [http-nio-9000-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 15:17:08.355 INFO [http-nio-9000-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context8628975579353180116.xml'
+10-Nov-2018 15:17:11.128 INFO [http-nio-9000-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 15:18:18.185 INFO [http-nio-9000-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:18:18.191 INFO [http-nio-9000-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:18:18.199 INFO [http-nio-9000-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 15:18:18.784 INFO [http-nio-9000-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context6814463208259917912.xml'
+10-Nov-2018 15:18:21.180 INFO [http-nio-9000-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 15:19:21.750 INFO [http-nio-9000-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:19:21.754 INFO [http-nio-9000-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:19:21.763 INFO [http-nio-9000-exec-29] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 15:19:22.336 INFO [http-nio-9000-exec-23] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context4669938437913904065.xml'
+10-Nov-2018 15:19:24.952 INFO [http-nio-9000-exec-22] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 15:21:32.191 INFO [http-nio-9000-exec-37] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:21:32.636 INFO [http-nio-9000-exec-32] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 15:21:34.082 INFO [http-nio-9000-exec-36] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:21:34.088 INFO [http-nio-9000-exec-38] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:21:35.052 INFO [http-nio-9000-exec-39] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 15:21:35.593 INFO [http-nio-9000-exec-40] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context2276331109657773673.xml'
+10-Nov-2018 15:21:38.362 INFO [http-nio-9000-exec-40] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 15:21:54.845 INFO [http-nio-9000-exec-47] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:21:54.888 INFO [http-nio-9000-exec-39] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 15:23:53.038 INFO [http-nio-9000-exec-43] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:23:53.084 INFO [http-nio-9000-exec-48] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 15:23:55.321 INFO [http-nio-9000-exec-49] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:23:55.325 INFO [http-nio-9000-exec-50] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:23:55.609 INFO [http-nio-9000-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 15:23:56.195 INFO [http-nio-9000-exec-48] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context1785595656092103946.xml'
+10-Nov-2018 15:23:58.410 INFO [http-nio-9000-exec-53] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 15:24:15.735 INFO [http-nio-9000-exec-52] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:24:15.798 INFO [http-nio-9000-exec-54] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 15:29:27.820 INFO [http-nio-9000-exec-60] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:29:27.895 INFO [http-nio-9000-exec-66] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 15:29:30.588 INFO [http-nio-9000-exec-60] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:35:58.095 INFO [http-nio-9000-exec-69] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:35:58.151 INFO [http-nio-9000-exec-72] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 15:39:09.353 INFO [http-nio-9000-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:39:09.414 INFO [http-nio-9000-exec-79] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 15:40:05.393 INFO [http-nio-9000-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 15:40:05.432 INFO [http-nio-9000-exec-76] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 17:43:42.109 INFO [http-nio-9000-exec-88] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:43:42.177 INFO [http-nio-9000-exec-90] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 17:45:14.693 INFO [http-nio-9000-exec-91] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:45:14.745 INFO [http-nio-9000-exec-98] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 17:45:31.395 INFO [http-nio-9000-exec-103] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:45:31.450 INFO [http-nio-9000-exec-91] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 17:45:45.288 INFO [http-nio-9000-exec-105] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:45:45.404 INFO [http-nio-9000-exec-97] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 17:45:47.263 INFO [http-nio-9000-exec-106] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:45:47.309 INFO [http-nio-9000-exec-102] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 17:45:47.309 SEVERE [http-nio-9000-exec-102] org.apache.catalina.core.ApplicationContext.log Manager: ManagerServlet.reload[/SzemleletGym]
+ java.lang.IllegalStateException: Context with name [/SzemleletGym] has not yet been started
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3683)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:1094)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:364)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:611)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:412)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1385)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-Nov-2018 17:46:09.625 INFO [http-nio-9000-exec-92] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:46:09.632 INFO [http-nio-9000-exec-88] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:46:09.646 INFO [http-nio-9000-exec-106] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 17:46:10.178 INFO [http-nio-9000-exec-102] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context1939097001295775132.xml'
+10-Nov-2018 17:46:20.630 INFO [http-nio-9000-exec-92] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:46:20.637 INFO [http-nio-9000-exec-88] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:46:20.646 INFO [http-nio-9000-exec-109] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 17:46:21.163 INFO [http-nio-9000-exec-108] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context6734557889253887444.xml'
+10-Nov-2018 17:46:29.345 INFO [http-nio-9000-exec-106] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:46:29.348 INFO [http-nio-9000-exec-100] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:46:29.356 INFO [http-nio-9000-exec-109] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 17:46:29.876 INFO [http-nio-9000-exec-88] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context5833441765926850630.xml'
+10-Nov-2018 17:46:41.321 INFO [http-nio-9000-exec-107] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:46:41.328 INFO [http-nio-9000-exec-106] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:46:41.337 INFO [http-nio-9000-exec-105] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 17:46:41.853 INFO [http-nio-9000-exec-111] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context5933409863487232087.xml'
+10-Nov-2018 17:47:28.464 INFO [http-nio-9000-exec-108] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:47:28.468 INFO [http-nio-9000-exec-106] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:47:28.476 INFO [http-nio-9000-exec-100] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 17:47:28.994 INFO [http-nio-9000-exec-113] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context6966237924764389930.xml'
+10-Nov-2018 17:47:38.954 INFO [http-nio-9000-exec-114] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:47:38.958 INFO [http-nio-9000-exec-112] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:47:38.967 INFO [http-nio-9000-exec-110] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 17:47:39.485 INFO [http-nio-9000-exec-107] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context3849014908757720132.xml'
+10-Nov-2018 17:47:44.836 INFO [http-nio-9000-exec-115] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:47:44.840 INFO [http-nio-9000-exec-108] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:47:44.849 INFO [http-nio-9000-exec-111] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 17:47:45.368 INFO [http-nio-9000-exec-112] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context6537799252840520433.xml'
+10-Nov-2018 17:48:29.566 INFO [http-nio-9000-exec-110] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:48:29.569 INFO [http-nio-9000-exec-114] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:48:29.578 INFO [http-nio-9000-exec-108] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 17:48:30.094 INFO [http-nio-9000-exec-111] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context2440740603778208943.xml'
+10-Nov-2018 17:50:34.623 INFO [http-nio-9000-exec-114] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:50:34.627 INFO [http-nio-9000-exec-115] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:50:34.635 INFO [http-nio-9000-exec-108] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 17:50:35.149 INFO [http-nio-9000-exec-111] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context1143210112259211762.xml'
+10-Nov-2018 17:50:51.196 INFO [http-nio-9000-exec-109] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:50:51.200 INFO [http-nio-9000-exec-107] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:50:51.208 INFO [http-nio-9000-exec-115] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 17:50:51.724 INFO [http-nio-9000-exec-108] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context6119021390842163955.xml'
+10-Nov-2018 17:50:54.068 INFO [http-nio-9000-exec-111] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 17:51:59.444 INFO [http-nio-9000-exec-110] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:51:59.447 INFO [http-nio-9000-exec-112] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:51:59.458 INFO [http-nio-9000-exec-113] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 17:52:00.001 INFO [http-nio-9000-exec-110] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context5501907450140504757.xml'
+10-Nov-2018 17:52:02.996 INFO [http-nio-9000-exec-111] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 17:52:07.155 INFO [http-nio-9000-exec-111] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:52:07.157 INFO [http-nio-9000-exec-107] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:52:07.166 INFO [http-nio-9000-exec-117] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 17:52:07.693 INFO [http-nio-9000-exec-112] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context4671111467734627802.xml'
+10-Nov-2018 17:52:09.762 INFO [http-nio-9000-exec-111] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 17:55:17.087 INFO [http-nio-9000-exec-122] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:55:17.125 INFO [http-nio-9000-exec-123] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 17:55:35.237 INFO [http-nio-9000-exec-131] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:55:35.276 INFO [http-nio-9000-exec-121] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 17:57:04.792 INFO [http-nio-9000-exec-132] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:57:04.845 INFO [http-nio-9000-exec-134] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 17:57:56.096 INFO [http-nio-9000-exec-140] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:57:56.162 INFO [http-nio-9000-exec-133] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 17:57:58.321 INFO [http-nio-9000-exec-138] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:57:58.367 INFO [http-nio-9000-exec-132] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 17:58:00.656 INFO [http-nio-9000-exec-133] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:58:00.751 INFO [http-nio-9000-exec-139] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 17:58:12.607 INFO [http-nio-9000-exec-140] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:58:12.644 INFO [http-nio-9000-exec-127] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 17:58:12.644 SEVERE [http-nio-9000-exec-127] org.apache.catalina.core.ApplicationContext.log Manager: ManagerServlet.reload[/SzemleletGym]
+ java.lang.IllegalStateException: Context with name [/SzemleletGym] has not yet been started
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3683)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:1094)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:364)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:611)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:412)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1385)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-Nov-2018 17:59:30.143 INFO [http-nio-9000-exec-144] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:59:30.147 INFO [http-nio-9000-exec-146] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:59:30.155 INFO [http-nio-9000-exec-130] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 17:59:30.675 INFO [http-nio-9000-exec-142] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context1092154633499629555.xml'
+10-Nov-2018 17:59:32.829 INFO [http-nio-9000-exec-135] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 17:59:40.839 INFO [http-nio-9000-exec-140] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 17:59:40.882 INFO [http-nio-9000-exec-145] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:00:06.355 INFO [http-nio-9000-exec-146] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:00:06.359 INFO [http-nio-9000-exec-140] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:00:06.368 INFO [http-nio-9000-exec-150] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 18:00:06.761 INFO [http-nio-9000-exec-151] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:00:06.885 INFO [http-nio-9000-exec-135] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:00:06.894 INFO [http-nio-9000-exec-127] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context2884250607714783197.xml'
+10-Nov-2018 18:00:09.034 INFO [http-nio-9000-exec-140] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 18:04:15.568 INFO [http-nio-9000-exec-152] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:04:15.572 INFO [http-nio-9000-exec-153] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:04:15.580 INFO [http-nio-9000-exec-154] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 18:04:16.122 INFO [http-nio-9000-exec-160] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context5853724818420316866.xml'
+10-Nov-2018 18:04:18.387 INFO [http-nio-9000-exec-157] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 18:05:12.178 INFO [http-nio-9000-exec-152] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:05:12.232 INFO [http-nio-9000-exec-159] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:07:26.635 INFO [http-nio-9000-exec-166] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:07:26.689 INFO [http-nio-9000-exec-167] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:07:58.066 INFO [http-nio-9000-exec-168] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:07:58.128 INFO [http-nio-9000-exec-172] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:08:00.404 INFO [http-nio-9000-exec-169] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:08:00.445 INFO [http-nio-9000-exec-168] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:08:06.160 INFO [http-nio-9000-exec-169] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:08:06.212 INFO [http-nio-9000-exec-171] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:08:15.711 INFO [http-nio-9000-exec-175] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:08:15.761 INFO [http-nio-9000-exec-153] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:08:25.456 INFO [http-nio-9000-exec-164] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:08:25.517 INFO [http-nio-9000-exec-177] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:08:38.607 INFO [http-nio-9000-exec-178] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:08:38.705 INFO [http-nio-9000-exec-170] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:08:42.275 INFO [http-nio-9000-exec-165] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:08:42.317 INFO [http-nio-9000-exec-169] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:09:01.419 INFO [http-nio-9000-exec-178] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:09:01.464 INFO [http-nio-9000-exec-175] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:09:09.522 INFO [http-nio-9000-exec-182] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:09:09.561 INFO [http-nio-9000-exec-183] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:09:39.338 INFO [http-nio-9000-exec-185] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:09:39.379 INFO [http-nio-9000-exec-176] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:10:18.241 INFO [http-nio-9000-exec-182] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:10:18.284 INFO [http-nio-9000-exec-189] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:10:25.573 INFO [http-nio-9000-exec-188] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:10:25.614 INFO [http-nio-9000-exec-190] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:10:32.700 INFO [http-nio-9000-exec-192] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:10:32.740 INFO [http-nio-9000-exec-178] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:10:42.547 INFO [http-nio-9000-exec-186] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:10:42.591 INFO [http-nio-9000-exec-195] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:11:34.209 INFO [http-nio-9000-exec-194] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:11:34.248 INFO [http-nio-9000-exec-192] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:11:41.191 INFO [http-nio-9000-exec-182] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:11:41.267 INFO [http-nio-9000-exec-198] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:11:47.914 INFO [http-nio-9000-exec-173] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:11:47.997 INFO [http-nio-9000-exec-182] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:11:54.178 INFO [http-nio-9000-exec-202] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:11:54.246 INFO [http-nio-9000-exec-201] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:12:16.667 INFO [http-nio-9000-exec-204] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:12:16.705 INFO [http-nio-9000-exec-203] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:12:20.150 INFO [http-nio-9000-exec-207] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:12:20.205 INFO [http-nio-9000-exec-204] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:12:54.451 INFO [http-nio-9000-exec-188] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:12:54.488 INFO [http-nio-9000-exec-194] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:13:06.924 INFO [http-nio-9000-exec-207] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:13:06.974 INFO [http-nio-9000-exec-188] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 18:13:06.974 SEVERE [http-nio-9000-exec-188] org.apache.catalina.core.ApplicationContext.log Manager: ManagerServlet.reload[/SzemleletGym]
+ java.lang.IllegalStateException: Context with name [/SzemleletGym] has not yet been started
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3683)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:1094)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:364)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:611)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:412)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1385)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-Nov-2018 18:39:34.639 INFO [http-nio-9000-exec-218] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:39:34.643 INFO [http-nio-9000-exec-219] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:39:34.671 INFO [http-nio-9000-exec-213] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 18:39:35.187 INFO [http-nio-9000-exec-218] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context382567180585048462.xml'
+10-Nov-2018 18:39:37.055 INFO [http-nio-9000-exec-219] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:39:37.068 INFO [http-nio-9000-exec-221] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:39:37.078 INFO [http-nio-9000-exec-216] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 18:39:37.594 INFO [http-nio-9000-exec-217] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context1913228382484862038.xml'
+10-Nov-2018 18:39:52.827 INFO [http-nio-9000-exec-214] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:39:52.832 INFO [http-nio-9000-exec-212] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:39:52.839 INFO [http-nio-9000-exec-221] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 18:39:53.355 INFO [http-nio-9000-exec-216] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context7796187912246710544.xml'
+10-Nov-2018 18:39:55.278 INFO [http-nio-9000-exec-212] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:39:55.293 INFO [http-nio-9000-exec-213] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 18:39:55.301 INFO [http-nio-9000-exec-215] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 18:39:55.816 INFO [http-nio-9000-exec-218] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context125631359521126966.xml'
+10-Nov-2018 19:12:19.527 INFO [http-nio-9000-exec-218] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:12:19.530 INFO [http-nio-9000-exec-214] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:12:19.543 INFO [http-nio-9000-exec-217] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 19:12:20.060 INFO [http-nio-9000-exec-220] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context5549097535596283057.xml'
+10-Nov-2018 19:12:33.529 INFO [http-nio-9000-exec-216] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:12:33.532 INFO [http-nio-9000-exec-221] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:12:33.538 INFO [http-nio-9000-exec-217] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 19:12:34.054 INFO [http-nio-9000-exec-212] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context8026456162079233327.xml'
+10-Nov-2018 19:15:15.044 INFO [http-nio-9000-exec-212] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:15:15.055 INFO [http-nio-9000-exec-220] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 19:16:53.224 INFO [http-nio-9000-exec-216] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:16:53.228 INFO [http-nio-9000-exec-217] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:16:53.240 INFO [http-nio-9000-exec-212] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context4474925982620020563.xml'
+10-Nov-2018 19:16:59.970 INFO [http-nio-9000-exec-219] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:16:59.972 INFO [http-nio-9000-exec-215] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:16:59.981 INFO [http-nio-9000-exec-218] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 19:17:00.495 INFO [http-nio-9000-exec-216] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context7437118749900625025.xml'
+10-Nov-2018 19:19:15.350 INFO [http-nio-9000-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+10-Nov-2018 19:19:15.351 INFO [http-nio-9000-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+10-Nov-2018 19:19:15.398 INFO [http-nio-9000-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:19:15.404 INFO [http-nio-9000-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:19:15.417 INFO [http-nio-9000-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 19:19:16.053 INFO [http-nio-9000-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context4803349278627871919.xml'
+10-Nov-2018 19:19:23.392 INFO [http-nio-9000-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:19:23.398 INFO [http-nio-9000-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:19:23.407 INFO [http-nio-9000-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 19:19:23.922 INFO [http-nio-9000-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context1891827488701428031.xml'
+10-Nov-2018 19:20:42.653 INFO [http-nio-9000-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:20:42.659 INFO [http-nio-9000-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:20:42.667 INFO [http-nio-9000-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 19:20:43.185 INFO [http-nio-9000-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context1151147748464353647.xml'
+10-Nov-2018 19:20:50.289 INFO [http-nio-9000-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:20:50.294 INFO [http-nio-9000-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:20:50.303 INFO [http-nio-9000-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 19:20:50.819 INFO [http-nio-9000-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context6720061904631081379.xml'
+10-Nov-2018 19:21:11.312 INFO [http-nio-9000-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:21:11.338 INFO [http-nio-9000-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 19:21:11.851 INFO [http-nio-9000-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context5227635450377978421.xml'
+10-Nov-2018 19:21:20.555 INFO [http-nio-9000-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:21:20.558 INFO [http-nio-9000-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:21:20.568 INFO [http-nio-9000-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 19:21:21.179 INFO [http-nio-9000-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context5971460903347256684.xml'
+10-Nov-2018 19:21:27.869 INFO [http-nio-9000-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:21:27.874 INFO [http-nio-9000-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:21:27.881 INFO [http-nio-9000-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 19:21:28.401 INFO [http-nio-9000-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context389875456060622865.xml'
+10-Nov-2018 19:21:34.152 INFO [http-nio-9000-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:21:34.158 INFO [http-nio-9000-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:21:34.169 INFO [http-nio-9000-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context5551403826984722867.xml'
+10-Nov-2018 19:22:24.101 INFO [http-nio-9000-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+10-Nov-2018 19:22:24.101 INFO [http-nio-9000-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+10-Nov-2018 19:24:06.472 INFO [http-nio-9000-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:24:06.475 INFO [http-nio-9000-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:24:06.487 INFO [http-nio-9000-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 19:24:07.013 INFO [http-nio-9000-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context2244598328400003442.xml'
+10-Nov-2018 19:24:24.684 INFO [http-nio-9000-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+10-Nov-2018 19:24:24.684 INFO [http-nio-9000-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+10-Nov-2018 19:24:39.370 INFO [http-nio-9000-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:24:39.378 INFO [http-nio-9000-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:24:39.386 INFO [http-nio-9000-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 19:24:39.905 INFO [http-nio-9000-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context9064574200622740222.xml'
+10-Nov-2018 19:24:45.708 INFO [http-nio-9000-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:24:45.712 INFO [http-nio-9000-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:24:45.720 INFO [http-nio-9000-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 19:24:46.236 INFO [http-nio-9000-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context2909154383784791930.xml'
+10-Nov-2018 19:27:02.122 INFO [http-nio-9000-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:27:02.134 INFO [http-nio-9000-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:27:02.147 INFO [http-nio-9000-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 19:27:02.667 INFO [http-nio-9000-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context2201727519564516787.xml'
+10-Nov-2018 19:29:52.677 INFO [http-nio-9000-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:29:52.681 INFO [http-nio-9000-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:29:52.691 INFO [http-nio-9000-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 19:29:53.204 INFO [http-nio-9000-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context2873353182766296086.xml'
+10-Nov-2018 19:29:55.444 INFO [http-nio-9000-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 19:30:16.587 INFO [http-nio-9000-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:30:16.591 INFO [http-nio-9000-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 19:30:16.603 INFO [http-nio-9000-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 19:30:17.133 INFO [http-nio-9000-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context6672076755939274444.xml'
+10-Nov-2018 19:30:19.260 INFO [http-nio-9000-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 21:33:24.528 INFO [http-nio-9000-exec-20] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:33:39.977 INFO [http-nio-9000-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:34:12.200 INFO [http-nio-9000-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:34:26.083 INFO [http-nio-9000-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:34:50.867 INFO [http-nio-9000-exec-16] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:35:53.906 INFO [http-nio-9000-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:35:53.917 INFO [http-nio-9000-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:35:53.937 INFO [http-nio-9000-exec-16] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 21:35:54.505 INFO [http-nio-9000-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context1779008976958279908.xml'
+10-Nov-2018 21:35:57.520 INFO [http-nio-9000-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 21:36:32.609 INFO [http-nio-9000-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:36:32.612 INFO [http-nio-9000-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:36:32.621 INFO [http-nio-9000-exec-23] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 21:36:33.172 INFO [http-nio-9000-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context8091479066322273637.xml'
+10-Nov-2018 21:36:35.311 INFO [http-nio-9000-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 21:44:16.628 INFO [http-nio-9000-exec-37] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:45:20.447 INFO [http-nio-9000-exec-33] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:45:20.535 INFO [http-nio-9000-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 21:45:23.655 INFO [http-nio-9000-exec-29] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:45:23.797 INFO [http-nio-9000-exec-37] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 21:50:15.938 INFO [http-nio-9000-exec-46] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:50:16.059 INFO [http-nio-9000-exec-40] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 21:50:18.415 INFO [http-nio-9000-exec-39] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:50:18.465 INFO [http-nio-9000-exec-45] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 21:50:35.864 INFO [http-nio-9000-exec-50] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:50:35.908 INFO [http-nio-9000-exec-31] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 21:54:53.323 INFO [http-nio-9000-exec-54] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:54:53.372 INFO [http-nio-9000-exec-52] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 21:56:37.867 INFO [http-nio-9000-exec-57] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:56:37.906 INFO [http-nio-9000-exec-59] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 21:57:02.114 INFO [http-nio-9000-exec-64] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:57:02.197 INFO [http-nio-9000-exec-54] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 21:57:19.613 INFO [http-nio-9000-exec-66] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:57:19.708 INFO [http-nio-9000-exec-58] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 21:57:39.208 INFO [http-nio-9000-exec-68] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:57:39.367 INFO [http-nio-9000-exec-53] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 21:57:39.367 SEVERE [http-nio-9000-exec-53] org.apache.catalina.core.ApplicationContext.log Manager: ManagerServlet.reload[/SzemleletGym]
+ java.lang.IllegalStateException: Context with name [/SzemleletGym] has not yet been started
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3683)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:1094)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:364)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:611)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:412)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1385)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-Nov-2018 21:57:43.062 INFO [http-nio-9000-exec-60] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:57:43.068 INFO [http-nio-9000-exec-65] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:57:43.078 INFO [http-nio-9000-exec-57] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 21:57:43.598 INFO [http-nio-9000-exec-66] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context1574441779782674195.xml'
+10-Nov-2018 21:57:45.755 INFO [http-nio-9000-exec-55] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 21:58:03.197 INFO [http-nio-9000-exec-71] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:58:03.248 INFO [http-nio-9000-exec-67] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 21:58:05.448 INFO [http-nio-9000-exec-71] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:58:05.666 INFO [http-nio-9000-exec-65] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 21:58:30.021 INFO [http-nio-9000-exec-69] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:58:30.061 INFO [http-nio-9000-exec-68] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 21:59:22.237 INFO [http-nio-9000-exec-53] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:59:22.425 INFO [http-nio-9000-exec-74] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 21:59:26.770 INFO [http-nio-9000-exec-72] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:59:26.813 INFO [http-nio-9000-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 21:59:55.270 INFO [http-nio-9000-exec-69] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 21:59:55.308 INFO [http-nio-9000-exec-53] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:01:18.505 INFO [http-nio-9000-exec-57] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:01:18.550 INFO [http-nio-9000-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:02:12.160 INFO [http-nio-9000-exec-69] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:02:12.201 INFO [http-nio-9000-exec-79] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:03:12.385 INFO [http-nio-9000-exec-80] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:03:12.427 INFO [http-nio-9000-exec-57] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:03:56.224 INFO [http-nio-9000-exec-90] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:03:56.266 INFO [http-nio-9000-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:06:05.365 INFO [http-nio-9000-exec-93] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:10:27.392 INFO [http-nio-9000-exec-94] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:10:50.884 INFO [http-nio-9000-exec-92] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:11:00.600 INFO [http-nio-9000-exec-99] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:11:11.160 INFO [http-nio-9000-exec-92] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:11:13.522 INFO [http-nio-9000-exec-98] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:11:13.571 INFO [http-nio-9000-exec-96] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:11:23.745 INFO [http-nio-9000-exec-97] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:11:23.752 INFO [http-nio-9000-exec-101] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:11:23.759 INFO [http-nio-9000-exec-94] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 22:11:24.296 INFO [http-nio-9000-exec-102] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context1341450175158665584.xml'
+10-Nov-2018 22:11:26.452 INFO [http-nio-9000-exec-100] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 22:14:12.603 INFO [http-nio-9000-exec-105] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:15:03.775 INFO [http-nio-9000-exec-110] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:15:15.145 INFO [http-nio-9000-exec-108] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:15:15.151 INFO [http-nio-9000-exec-112] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:15:15.164 INFO [http-nio-9000-exec-103] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 22:15:15.709 INFO [http-nio-9000-exec-107] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context1324597372219826013.xml'
+10-Nov-2018 22:15:17.759 INFO [http-nio-9000-exec-111] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 22:16:35.133 INFO [http-nio-9000-exec-114] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:16:35.172 INFO [http-nio-9000-exec-116] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:19:08.343 INFO [http-nio-9000-exec-123] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:19:08.383 INFO [http-nio-9000-exec-124] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:19:19.513 INFO [http-nio-9000-exec-113] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:19:19.527 INFO [http-nio-9000-exec-126] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:19:19.539 INFO [http-nio-9000-exec-118] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 22:19:20.075 INFO [http-nio-9000-exec-129] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context4332271703586039874.xml'
+10-Nov-2018 22:19:22.029 INFO [http-nio-9000-exec-122] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 22:20:56.798 INFO [http-nio-9000-exec-125] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:21:07.951 INFO [http-nio-9000-exec-136] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:21:41.565 INFO [http-nio-9000-exec-134] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:21:41.570 INFO [http-nio-9000-exec-137] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:21:41.579 INFO [http-nio-9000-exec-138] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 22:21:42.119 INFO [http-nio-9000-exec-135] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context6951551719220691549.xml'
+10-Nov-2018 22:21:44.090 INFO [http-nio-9000-exec-130] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 22:22:30.280 INFO [http-nio-9000-exec-146] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:22:37.520 INFO [http-nio-9000-exec-140] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:22:37.524 INFO [http-nio-9000-exec-146] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:22:37.533 INFO [http-nio-9000-exec-132] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 22:22:38.072 INFO [http-nio-9000-exec-144] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context2160169191681577306.xml'
+10-Nov-2018 22:22:40.013 INFO [http-nio-9000-exec-133] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 22:25:33.577 INFO [http-nio-9000-exec-150] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:26:17.333 INFO [http-nio-9000-exec-157] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:26:17.336 INFO [http-nio-9000-exec-149] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:26:17.344 INFO [http-nio-9000-exec-150] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 22:26:17.884 INFO [http-nio-9000-exec-148] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context3009286213571651783.xml'
+10-Nov-2018 22:26:19.890 INFO [http-nio-9000-exec-156] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 22:27:56.435 INFO [http-nio-9000-exec-161] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:30:20.121 INFO [http-nio-9000-exec-164] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:30:20.160 INFO [http-nio-9000-exec-165] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:32:09.046 INFO [http-nio-9000-exec-164] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:32:09.084 INFO [http-nio-9000-exec-158] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:32:22.875 INFO [http-nio-9000-exec-168] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:32:22.878 INFO [http-nio-9000-exec-170] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:32:22.885 INFO [http-nio-9000-exec-166] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 22:32:23.419 INFO [http-nio-9000-exec-170] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context3057703051355970305.xml'
+10-Nov-2018 22:32:25.443 INFO [http-nio-9000-exec-160] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 22:34:53.665 INFO [http-nio-9000-exec-176] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:35:25.512 INFO [http-nio-9000-exec-175] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:36:00.826 INFO [http-nio-9000-exec-181] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:36:17.838 INFO [http-nio-9000-exec-179] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:39:20.602 INFO [http-nio-9000-exec-179] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:40:56.670 INFO [http-nio-9000-exec-174] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:42:16.319 INFO [http-nio-9000-exec-174] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:42:29.330 INFO [http-nio-9000-exec-178] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:43:32.921 INFO [http-nio-9000-exec-181] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:44:25.947 INFO [http-nio-9000-exec-179] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:48:39.433 INFO [http-nio-9000-exec-174] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:48:51.018 INFO [http-nio-9000-exec-175] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:48:51.069 INFO [http-nio-9000-exec-176] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:49:10.345 INFO [http-nio-9000-exec-179] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:49:10.389 INFO [http-nio-9000-exec-182] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:50:58.843 INFO [http-nio-9000-exec-179] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:50:58.881 INFO [http-nio-9000-exec-178] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:51:09.833 INFO [http-nio-9000-exec-186] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:51:09.895 INFO [http-nio-9000-exec-189] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:52:02.671 INFO [http-nio-9000-exec-188] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:52:02.711 INFO [http-nio-9000-exec-190] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:55:03.937 INFO [http-nio-9000-exec-197] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:55:03.980 INFO [http-nio-9000-exec-196] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:55:29.347 INFO [http-nio-9000-exec-188] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:55:29.403 INFO [http-nio-9000-exec-198] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:55:31.492 INFO [http-nio-9000-exec-197] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:55:31.579 INFO [http-nio-9000-exec-199] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:55:56.914 INFO [http-nio-9000-exec-201] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:55:56.952 INFO [http-nio-9000-exec-188] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:55:56.952 SEVERE [http-nio-9000-exec-188] org.apache.catalina.core.ApplicationContext.log Manager: ManagerServlet.reload[/SzemleletGym]
+ java.lang.IllegalStateException: Context with name [/SzemleletGym] has not yet been started
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3683)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:1094)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:364)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:611)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:412)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1385)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-Nov-2018 22:56:45.598 INFO [http-nio-9000-exec-207] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:56:45.602 INFO [http-nio-9000-exec-195] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:56:45.611 INFO [http-nio-9000-exec-201] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 22:56:46.129 INFO [http-nio-9000-exec-205] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context8665675011868460160.xml'
+10-Nov-2018 22:56:48.144 INFO [http-nio-9000-exec-188] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 22:57:20.741 INFO [http-nio-9000-exec-207] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:57:20.780 INFO [http-nio-9000-exec-195] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:58:00.316 INFO [http-nio-9000-exec-206] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:58:00.356 INFO [http-nio-9000-exec-208] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:58:06.740 INFO [http-nio-9000-exec-211] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:58:06.789 INFO [http-nio-9000-exec-201] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:58:09.861 INFO [http-nio-9000-exec-207] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 22:58:09.913 INFO [http-nio-9000-exec-210] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 22:59:55.179 INFO [http-nio-9000-exec-219] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:00:08.162 INFO [http-nio-9000-exec-217] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:00:18.808 INFO [http-nio-9000-exec-213] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:00:18.818 INFO [http-nio-9000-exec-217] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:00:18.827 INFO [http-nio-9000-exec-215] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:00:19.349 INFO [http-nio-9000-exec-207] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context5898763120053498021.xml'
+10-Nov-2018 23:00:21.278 INFO [http-nio-9000-exec-218] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:00:53.611 INFO [http-nio-9000-exec-223] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:01:05.598 INFO [http-nio-9000-exec-229] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:01:05.603 INFO [http-nio-9000-exec-226] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:01:05.613 INFO [http-nio-9000-exec-225] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:01:06.150 INFO [http-nio-9000-exec-223] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context26859013689284787.xml'
+10-Nov-2018 23:01:08.122 INFO [http-nio-9000-exec-229] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:01:21.698 INFO [http-nio-9000-exec-229] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:01:29.024 INFO [http-nio-9000-exec-235] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:01:29.028 INFO [http-nio-9000-exec-224] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:01:29.037 INFO [http-nio-9000-exec-228] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:01:29.577 INFO [http-nio-9000-exec-234] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context6198151956866646330.xml'
+10-Nov-2018 23:01:31.570 INFO [http-nio-9000-exec-233] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:02:14.194 INFO [http-nio-9000-exec-233] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:02:14.199 INFO [http-nio-9000-exec-240] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:02:14.207 INFO [http-nio-9000-exec-239] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:02:14.744 INFO [http-nio-9000-exec-233] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context7606158605469259211.xml'
+10-Nov-2018 23:02:16.891 INFO [http-nio-9000-exec-240] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:03:39.449 INFO [http-nio-9000-exec-245] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:03:46.279 INFO [http-nio-9000-exec-251] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:03:46.282 INFO [http-nio-9000-exec-246] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:03:46.294 INFO [http-nio-9000-exec-247] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:03:46.832 INFO [http-nio-9000-exec-244] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context3766073828616976635.xml'
+10-Nov-2018 23:03:48.841 INFO [http-nio-9000-exec-250] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:04:29.794 INFO [http-nio-9000-exec-248] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:04:49.037 INFO [http-nio-9000-exec-254] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:07:41.349 INFO [http-nio-9000-exec-255] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:07:41.353 INFO [http-nio-9000-exec-257] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:07:41.362 INFO [http-nio-9000-exec-258] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:07:41.900 INFO [http-nio-9000-exec-257] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context8588713292042104077.xml'
+10-Nov-2018 23:07:44.043 INFO [http-nio-9000-exec-261] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:10:02.512 INFO [http-nio-9000-exec-267] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:10:02.553 INFO [http-nio-9000-exec-268] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:10:15.589 INFO [http-nio-9000-exec-265] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:10:15.593 INFO [http-nio-9000-exec-269] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:10:15.601 INFO [http-nio-9000-exec-274] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:10:16.154 INFO [http-nio-9000-exec-275] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context3089926321773566822.xml'
+10-Nov-2018 23:10:18.328 INFO [http-nio-9000-exec-272] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:10:59.390 INFO [http-nio-9000-exec-271] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:11:38.585 INFO [http-nio-9000-exec-279] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:11:38.587 INFO [http-nio-9000-exec-280] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:11:38.594 INFO [http-nio-9000-exec-281] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:11:39.134 INFO [http-nio-9000-exec-282] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context3621510090017572834.xml'
+10-Nov-2018 23:11:41.647 INFO [http-nio-9000-exec-283] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:14:08.017 INFO [http-nio-9000-exec-285] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:14:08.058 INFO [http-nio-9000-exec-290] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:15:02.312 INFO [http-nio-9000-exec-287] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:15:02.353 INFO [http-nio-9000-exec-294] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:17:39.740 INFO [http-nio-9000-exec-299] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:17:39.778 INFO [http-nio-9000-exec-302] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:17:51.133 INFO [http-nio-9000-exec-286] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:17:51.172 INFO [http-nio-9000-exec-297] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:17:57.976 INFO [http-nio-9000-exec-288] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:17:58.023 INFO [http-nio-9000-exec-303] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:18:03.031 INFO [http-nio-9000-exec-307] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:18:03.041 INFO [http-nio-9000-exec-304] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:18:03.051 INFO [http-nio-9000-exec-306] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:18:03.595 INFO [http-nio-9000-exec-293] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context6524320282077694985.xml'
+10-Nov-2018 23:18:05.701 INFO [http-nio-9000-exec-292] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:20:08.790 INFO [http-nio-9000-exec-311] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:20:08.830 INFO [http-nio-9000-exec-312] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:20:21.632 INFO [http-nio-9000-exec-309] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:20:21.635 INFO [http-nio-9000-exec-319] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:20:21.643 INFO [http-nio-9000-exec-314] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:20:22.181 INFO [http-nio-9000-exec-320] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context836167825884177821.xml'
+10-Nov-2018 23:20:24.267 INFO [http-nio-9000-exec-315] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:22:25.664 INFO [http-nio-9000-exec-325] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:23:04.172 INFO [http-nio-9000-exec-329] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:23:14.337 INFO [http-nio-9000-exec-328] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:23:14.342 INFO [http-nio-9000-exec-330] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:23:14.353 INFO [http-nio-9000-exec-325] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:23:14.894 INFO [http-nio-9000-exec-324] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context2446440057508721071.xml'
+10-Nov-2018 23:23:17.322 INFO [http-nio-9000-exec-322] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:24:20.056 INFO [http-nio-9000-exec-334] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:25:49.858 INFO [http-nio-9000-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+10-Nov-2018 23:25:49.859 INFO [http-nio-9000-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+10-Nov-2018 23:25:52.441 INFO [http-nio-9000-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:25:52.444 INFO [http-nio-9000-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:25:52.452 INFO [http-nio-9000-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:25:53.117 INFO [http-nio-9000-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context6087116624766966269.xml'
+10-Nov-2018 23:25:55.646 INFO [http-nio-9000-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:26:10.682 INFO [http-nio-9000-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:26:10.685 INFO [http-nio-9000-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:26:10.693 INFO [http-nio-9000-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:26:11.233 INFO [http-nio-9000-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context1684280028179495966.xml'
+10-Nov-2018 23:26:13.508 INFO [http-nio-9000-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:29:34.560 INFO [http-nio-9000-exec-25] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:29:34.563 INFO [http-nio-9000-exec-17] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:29:34.571 INFO [http-nio-9000-exec-20] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:29:35.113 INFO [http-nio-9000-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context4538069331210349498.xml'
+10-Nov-2018 23:29:37.374 INFO [http-nio-9000-exec-16] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:31:30.990 INFO [http-nio-9000-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:31:30.994 INFO [http-nio-9000-exec-29] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:31:31.008 INFO [http-nio-9000-exec-30] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:31:31.550 INFO [http-nio-9000-exec-26] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context8811712912711789911.xml'
+10-Nov-2018 23:31:33.896 INFO [http-nio-9000-exec-31] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:31:43.623 INFO [http-nio-9000-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:31:43.626 INFO [http-nio-9000-exec-33] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:31:43.636 INFO [http-nio-9000-exec-35] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:31:44.173 INFO [http-nio-9000-exec-31] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context6924422342937813172.xml'
+10-Nov-2018 23:31:46.358 INFO [http-nio-9000-exec-32] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:32:30.942 INFO [http-nio-9000-exec-40] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:32:30.945 INFO [http-nio-9000-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:32:30.956 INFO [http-nio-9000-exec-41] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:32:31.495 INFO [http-nio-9000-exec-35] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context4642390885254360214.xml'
+10-Nov-2018 23:32:33.629 INFO [http-nio-9000-exec-44] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:36:25.881 INFO [http-nio-9000-exec-49] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:36:25.886 INFO [http-nio-9000-exec-53] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:36:25.896 INFO [http-nio-9000-exec-52] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:36:26.444 INFO [http-nio-9000-exec-47] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context8539867092715680699.xml'
+10-Nov-2018 23:36:28.973 INFO [http-nio-9000-exec-48] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:38:27.127 INFO [http-nio-9000-exec-51] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:38:37.494 INFO [http-nio-9000-exec-56] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:38:48.639 INFO [http-nio-9000-exec-61] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:38:48.686 INFO [http-nio-9000-exec-59] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:39:24.120 INFO [http-nio-9000-exec-65] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:39:24.160 INFO [http-nio-9000-exec-56] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:39:47.842 INFO [http-nio-9000-exec-64] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:40:41.181 INFO [http-nio-9000-exec-69] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:40:41.224 INFO [http-nio-9000-exec-58] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:41:55.160 INFO [http-nio-9000-exec-60] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:41:55.203 INFO [http-nio-9000-exec-70] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:42:48.219 INFO [http-nio-9000-exec-75] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:42:48.271 INFO [http-nio-9000-exec-57] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:43:04.805 INFO [http-nio-9000-exec-67] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:43:04.809 INFO [http-nio-9000-exec-72] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:43:04.827 INFO [http-nio-9000-exec-66] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:43:05.360 INFO [http-nio-9000-exec-75] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context1369854828026751054.xml'
+10-Nov-2018 23:43:07.461 INFO [http-nio-9000-exec-60] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:44:41.110 INFO [http-nio-9000-exec-87] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:44:41.152 INFO [http-nio-9000-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:44:52.708 INFO [http-nio-9000-exec-80] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:44:52.759 INFO [http-nio-9000-exec-86] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:44:55.018 INFO [http-nio-9000-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:45:06.419 INFO [http-nio-9000-exec-91] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:46:45.333 INFO [http-nio-9000-exec-90] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:46:45.373 INFO [http-nio-9000-exec-91] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:47:14.748 INFO [http-nio-9000-exec-90] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:47:14.819 INFO [http-nio-9000-exec-83] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:48:21.006 INFO [http-nio-9000-exec-98] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:48:21.082 INFO [http-nio-9000-exec-88] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:48:21.082 SEVERE [http-nio-9000-exec-88] org.apache.catalina.core.ApplicationContext.log Manager: ManagerServlet.reload[/SzemleletGym]
+ java.lang.IllegalStateException: Context with name [/SzemleletGym] has not yet been started
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3683)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:1094)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:364)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:611)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:412)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1385)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-Nov-2018 23:48:58.702 INFO [http-nio-9000-exec-84] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:48:58.705 INFO [http-nio-9000-exec-79] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:48:58.713 INFO [http-nio-9000-exec-80] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:48:59.235 INFO [http-nio-9000-exec-96] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context8993132743000295033.xml'
+10-Nov-2018 23:49:01.430 INFO [http-nio-9000-exec-98] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:49:09.881 INFO [http-nio-9000-exec-97] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:49:09.920 INFO [http-nio-9000-exec-102] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:50:26.120 INFO [http-nio-9000-exec-101] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:50:35.549 INFO [http-nio-9000-exec-98] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:50:35.555 INFO [http-nio-9000-exec-100] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:50:35.567 INFO [http-nio-9000-exec-101] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:50:36.101 INFO [http-nio-9000-exec-100] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context2653802424739742979.xml'
+10-Nov-2018 23:50:38.154 INFO [http-nio-9000-exec-103] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:53:19.466 INFO [http-nio-9000-exec-111] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:53:19.509 INFO [http-nio-9000-exec-112] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:53:37.525 INFO [http-nio-9000-exec-114] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:53:37.583 INFO [http-nio-9000-exec-110] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:53:55.005 INFO [http-nio-9000-exec-113] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:53:55.047 INFO [http-nio-9000-exec-117] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:53:55.047 SEVERE [http-nio-9000-exec-117] org.apache.catalina.core.ApplicationContext.log Manager: ManagerServlet.reload[/SzemleletGym]
+ java.lang.IllegalStateException: Context with name [/SzemleletGym] has not yet been started
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3683)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:1094)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:364)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:611)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:412)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1385)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-Nov-2018 23:54:01.915 INFO [http-nio-9000-exec-113] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:54:01.923 INFO [http-nio-9000-exec-115] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:54:01.931 INFO [http-nio-9000-exec-121] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SzemleletGym'
+10-Nov-2018 23:54:02.454 INFO [http-nio-9000-exec-118] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/bzolt/AppData/Local/Temp/context4378158990140640453.xml'
+10-Nov-2018 23:54:04.750 INFO [http-nio-9000-exec-122] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SzemleletGym'
+10-Nov-2018 23:55:21.059 INFO [http-nio-9000-exec-123] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:55:21.101 INFO [http-nio-9000-exec-122] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:56:18.253 INFO [http-nio-9000-exec-125] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:56:18.294 INFO [http-nio-9000-exec-123] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:57:31.568 INFO [http-nio-9000-exec-128] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:57:48.036 INFO [http-nio-9000-exec-133] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:57:48.080 INFO [http-nio-9000-exec-130] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SzemleletGym'
+10-Nov-2018 23:58:46.584 INFO [http-nio-9000-exec-117] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:59:35.204 INFO [http-nio-9000-exec-135] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+10-Nov-2018 23:59:46.250 INFO [http-nio-9000-exec-117] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
